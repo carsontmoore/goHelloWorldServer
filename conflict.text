@@ -4,3 +4,4 @@ Update 2
 commitSha echo test
 commitSha tag test
 Test create release
+Create release test with pipeline variables
